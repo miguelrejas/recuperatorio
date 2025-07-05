@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+#agregarTareaBtn{
+    background-color: orange;
+}
+
+.tarea-completada {
+    background-color: lightgreen;
+    text-decoration: line-through;
+    color: gray;
+    padding: 8px;
+    margin-bottom: 5px;
+}
